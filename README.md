@@ -63,3 +63,4 @@ See the full PDF report for the RTL design, testbench, simulation waveforms, lin
 ## Team Members
 
 - [Ahmed M. Khalafallah](ضع-لينك-LinkedIn-هنا)
+- [Ahmed Hazem](ضع-لينك-LinkedIn-هنا)
