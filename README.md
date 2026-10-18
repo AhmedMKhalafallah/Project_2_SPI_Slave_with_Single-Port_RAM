@@ -3,7 +3,6 @@
 Verilog HDL implementation of an SPI Slave integrated with a Single-Port RAM. The project combines sequential and combinational logic to handle SPI communication, decode read and write commands, and coordinate data transfers between the SPI interface and memory.
 
 The design was simulated using QuestaSim and evaluated through the Vivado FPGA design flow, including FSM encoding comparison, timing analysis, and implementation.
-[![Project report](cover.png)](SPI_Slave_RAM_Project_Report.pdf)
 
 **[Open the full project report (PDF)](DSP48A1_Project_Report.pdf)**
 ## Project Overview
